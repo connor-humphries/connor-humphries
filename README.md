@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @connor-humphries
 - 🏢 Trainee Data Engineer at Sainsbury's
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ... connor.humphries@sainsburys.co.uk
+- 🌱 I’m currently learning Python & how to code in general!
 
 <!---
 connor-humphries/connor-humphries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
