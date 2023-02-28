@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connor-humphries
-- 🏢 Trainee Data Engineer at Sainsbury's
+- 🏢 Associate Data Engineer at Sainsbury's
 - 🌱 I’m currently learning Python & SQL
 
 <!---
