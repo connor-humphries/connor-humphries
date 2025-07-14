@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connor-humphries
-- 🏢 Associate Data Engineer at Sainsbury's
+- 🏢 Data Engineer at Moto
 
 <!---
 connor-humphries/connor-humphries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
